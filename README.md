@@ -3,7 +3,7 @@
 ### FUNCIONAMIENTO
 #### CREACION DE LISTAS
 ##### El trabajo consta de tres funcionalidades. Primero, crear una lista de tareas (archivo txt) añadirle una descripcion, y un numero de tareas que el usuario desee.
-#### CREACION DE LISTAS
+#### VER Y AÑADIR TAREAS
 ##### Segundo, seleccionar el nombre de una lista extraido de un archivo txt con todos los nombres de las listas. Una vez seleccionado, leer y mostrar en consola el contenido de la lista y ser capaz de añadir mas tareas si asi se desea.
 #### ELIMINACION DE LISTAS
 ##### Como tercera funcionalidad y siguiendo la logica de la segunda, se pueden eliminar listas creadas.
